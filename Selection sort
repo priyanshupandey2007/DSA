@@ -16,5 +16,5 @@ def selection_sort(arr):
 
 
 # Example usage
-data = [64, 25, 12, 22, 11]
+data = [90, 12, 45, 68, 86]
 print("Sorted array (Selection Sort):", selection_sort(data))
