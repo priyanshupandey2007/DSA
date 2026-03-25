@@ -12,5 +12,5 @@ def bubble_sort(arr):
 
 
 # Example usage
-data = [64, 34, 25, 12, 22, 11, 90]
+data = [10, 55, 45, 56, 78, 21, 90]
 print("Sorted array (Bubble Sort):", bubble_sort(data))
